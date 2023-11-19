@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #puzzle-container {
+    margin-top: 50px;
+  }
+  
+  #puzzle {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  #answer-input {
+    margin-top: 20px;
+    padding: 5px;
+  }
+  
+  #submit-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+  }
+  
+  #hint-container, #task-container {
+    display: none;
+    margin-top: 50px;
+  }
+  
+  #hint-container h2, #task-container h2 {
+    margin-bottom: 10px;
+  }
